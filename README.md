@@ -1,16 +1,28 @@
-### Hi there 👋
 
-<!--
-**muKaustav/muKaustav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Kaustav Mukhopadhyay</h1>
+<h3 align="center">A passionate developer and a keen learner.<br><br><br></h3>
 
-Here are some ideas to get you started:
+- 💻 I’m currently working on **[OCR](https://github.com/faustomorales/keras-ocr)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Deep Learning**.
+
+- 🔭 I’m looking to collaborate in **Backend development**. 
+
+- 💬 Ask me about **ML, Backend dev, Python**.
+<br>
+
+ ![](https://komarev.com/ghpvc/?username=muKaustav&style=flat-square) 
+<h1 align="center"></h1>
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=muKaustav&theme=react)](https://git.io/streak-stats) 
+</div>
+
+<h1 align="center"></h1>
+<h3 align="center">Reach me here:<br></h3>
+<p align="center"><a href="https://www.linkedin.com/in/kaustavmukhopadhyay/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="x" /></a>
+<a href="https://www.instagram.com/its_thekaustav/?hl=en" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="x" /></a> <a href="mailto:mu.kaustav@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="x" /></a>
+
+</p>
+
+
