@@ -4,7 +4,9 @@
 
 - 💻 I’m currently working on **[OCR](https://github.com/faustomorales/keras-ocr)**.
 
-- 🌱 I’m currently learning **Deep Learning**.
+ - 🌱 I’m currently learning a lot of things, but to name a few:
+   - **Deep Learning**
+   - **MERN stack** 
 
 - 🔭 I’m looking to collaborate in **Backend development**. 
 
