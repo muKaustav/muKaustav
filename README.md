@@ -8,7 +8,7 @@
    - **Deep Learning**
    - **MERN stack** 
 
-- 🔭 I’m looking to collaborate in **Backend development**. 
+- 🔭 I’m looking to collaborate in projects/hackathons for **Backend development**. 
 
 - 💬 Ask me about **ML, Backend dev, Python**.
 <br>
