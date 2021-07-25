@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kaustav Mukhopadhyay</h1>
 <h3 align="center">A passionate developer and a keen learner.<br><br><br></h3>
 
-- 💻 I’m currently working on **[OCR](https://github.com/faustomorales/keras-ocr)**.
-
- - 🌱 I’m currently learning a lot of things, but to name a few:
+ - 🌱 I’m currently learning:
    - **Deep Learning**
    - **MERN stack** 
 
