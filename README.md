@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Kaustav Mukhopadhyay</h1>
 <h3 align="center">A passionate developer and a keen learner.<br><br><br></h3>
 
- - 🌱 I’m currently learning:
+ - 🌱 Currently learning:
    - **Deep Learning**
    - **MERN stack** 
 
-- 🔭 I’m looking to collaborate in projects/hackathons for **Backend development**. 
+- 🔭 Looking forward to collaborate in projects/hackathons for **Backend development**. 
 
 - 💬 Ask me about **ML, Backend dev, Python**.
 <br>
