@@ -3,12 +3,12 @@
 <h3 align="center">A passionate developer and a keen learner.<br><br><br></h3>
 
  - 🌱 Currently learning:
-   - **Deep Learning**
+   - **System Design**
    - **MERN stack** 
 
 - 🔭 Looking forward to collaborate in projects/hackathons for **Backend development**. 
 
-- 💬 Ask me about **ML, Backend dev, Python**.
+- 💬 Ask me about **Backend dev, Python**.
 <br>
 
  ![](https://komarev.com/ghpvc/?username=muKaustav&style=flat-square) 
