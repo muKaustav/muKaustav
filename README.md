@@ -9,6 +9,7 @@
 - 🔭 Looking forward to collaborate in projects/hackathons for **Backend development**. 
 
 - 💬 Ask me about **Backend dev, Python**.
+- 📂 Current project in focus: <a href="https://github.com/muKaustav/ShortURL" target="_blank">ShortURL</a>
 <br>
 
  ![](https://komarev.com/ghpvc/?username=muKaustav&style=flat-square) 
