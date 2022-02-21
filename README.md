@@ -8,7 +8,7 @@
 
 - 🔭 Looking forward to collaborate in projects/hackathons for **Backend development**. 
 
-- 💬 Ask me about **Backend dev, Python**.
+- 💬 Ask me about **Backend development**.
 - 📂 Current project in focus: <a href="https://github.com/muKaustav/ShortURL" target="_blank">ShortURL: a distributed and highly available URL Shortener.</a>
 <br>
 
