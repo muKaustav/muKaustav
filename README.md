@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm Kaustav Mukhopadhyay</h1>
 <h3 align="center">A passionate developer and a keen learner.<br><br><br></h3>
 
- - 🌱 Currently learning **System Design**
+- 📔 I am a 2nd year undergraduate student pursuing Computer Science at Kalinga Institute of Industrial Technology.
+- 🌱 Currently learning **System Design** to learn about the architecture of the complex systems that drive
+the hyper-connected world.
 - 🔭 Looking forward to collaborate in projects/hackathons for **Backend development**. 
 - 📂 Current project in focus: <a href="https://github.com/muKaustav/ShortURL" target="_blank">ShortURL: a distributed and highly available URL Shortener.</a>
 <br>
