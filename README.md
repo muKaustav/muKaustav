@@ -7,7 +7,7 @@
 the hyper-connected world.
 - 🔭 Looking forward to collaborate in projects/hackathons for **Backend development**. 
 - 📂 Current project in focus: <a href="https://github.com/muKaustav/ShortURL" target="_blank">ShortURL: a distributed and highly available URL Shortener</a>.
-- 💼 Shipping code @<a href="https://github.com/pet-perfect">PetPerfect</a>
+- 💼 Shipping code @<a href="https://github.com/pet-perfect">PetPerfect</a> backend.
 <br>
 
  ![](https://komarev.com/ghpvc/?username=muKaustav&style=flat-square) 
