@@ -7,6 +7,7 @@
 the hyper-connected world.
 - 🔭 Looking forward to collaborate in projects/hackathons for **Backend development**. 
 - 📂 Current project in focus: <a href="https://github.com/muKaustav/ShortURL" target="_blank">ShortURL: a distributed and highly available URL Shortener</a>.
+- 💼 Developing products for <a href="https://www.turnkey.work/" target="_blank">Turnkey Tech Solutions.</a>.
 <br>
 
  ![](https://komarev.com/ghpvc/?username=muKaustav&style=flat-square) 
