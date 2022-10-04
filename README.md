@@ -1,13 +1,11 @@
 
-<h1 align="center">Hi 👋, I'm Kaustav Mukhopadhyay</h1>
+<h1 align="center">Hi 👋, I'm Kaustav</h1>
 <h3 align="center">A passionate developer and a keen learner.<br><br><br></h3>
 
-- 📚 I am a 3rd year undergraduate student pursuing Computer Science at Kalinga Institute of Industrial Technology, Bhubaneswar.
-- 🌱 Currently learning **System Design** to learn about the architecture of the complex systems that drive
+- I am a 3rd year Computer Science student at Kalinga Institute of Industrial Technology, Bhubaneswar.
+- Currently learning **System Design** to learn about the architecture of the complex systems that drive
 the hyper-connected world.
-- 🔭 Looking forward to collaborate in projects/hackathons for **Backend development**. 
-- 📂 Current project in focus: <a href="https://github.com/muKaustav/ShortURL" target="_blank">ShortURL: a distributed and highly available URL Shortener</a>.
-- 💼 Developing products for <a href="https://www.turnkey.work/" target="_blank">Turnkey Tech Solutions</a>.
+- Current project in focus: <a href="https://github.com/muKaustav/ShortURL" target="_blank">ShortURL: a distributed and highly available URL Shortener</a>.
 <br>
 
  ![](https://komarev.com/ghpvc/?username=muKaustav&style=flat-square) 
