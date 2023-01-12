@@ -4,7 +4,7 @@
 - Currently learning **System Design** to learn about the architecture of the complex systems that drive
 the hyper-connected world.
 - Current project in focus: <a href="https://github.com/muKaustav/ShortURL" target="_blank">ShortURL: a distributed and highly available URL Shortener</a>.
-- Engineering [@Yahoo!](https://yahoo.com/)
+- Engineering @[Yahoo!](https://yahoo.com/)
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/kaustavmukhopadhyay/) or [mail me](mailto:mu.kaustav@gmail.com).
 
