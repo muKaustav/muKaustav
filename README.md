@@ -3,8 +3,7 @@
 - I am a final year Computer Science student at Kalinga Institute of Industrial Technology, Bhubaneswar.
 - Currently learning **System Design** to learn about the architecture of the complex systems that drive
 the hyper-connected world.
-- Current project in focus: <a href="https://github.com/muKaustav/ShortURL" target="_blank">ShortURL: a distributed and highly available URL Shortener</a>.
-- Engineering @[Yahoo!](https://yahoo.com/)
+- Current project in focus: <a href="https://github.com/muKaustav/hltv-news-etl" target="_blank">ETL on HLTV news using Apache Airflow and Spark.</a>.
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/kaustavmukhopadhyay/) or [mail me](mailto:mu.kaustav@gmail.com).
 
